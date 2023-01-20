@@ -1,0 +1,4 @@
+package associacao;
+
+class Cupom {
+}
